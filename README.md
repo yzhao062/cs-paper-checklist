@@ -4,13 +4,12 @@ _This checklist is a practical, opinionated guide for sanity-checking the writin
 
 ## 1. 🎯 Title and Abstract
 
-- [ ] 1.1 Title is ≤ 15 words. Check for generic phrasing (e.g., “A Novel Framework...”) and overly narrow focus—aim for concise but informative.
-- [ ] 1.2 Title better combines both the **problem** and the **solution**, and includes at least one technical keyword (e.g., OOD detection, graph learning).
-- [ ] 1.3 Title avoids rare or ambiguous abbreviations. Terms like LLM, AI, and ML are acceptable; avoid AD unless context is clear as they can be advertisement or anomaly detection.
-- [ ] 1.4 Abstract includes all four key components: (1) problem/task definition, (2) proposed method or idea, (3) main results, and (4) broader impact or significance.
-- [ ] 1.5 Abstract avoids undefined abbreviations and vague descriptors (e.g., “important”, “novel”, “state-of-the-art” without context).
-- [ ] 1.6 Bonus: Abstract includes at least one concrete, quantitative result or insight to make the work stand out. For instance, our methods archives 11.2x acceleration in test time inference for jailbreak detection.
-
+- [ ] 1.1 Title is ≤ 15 words. Check for generic phrasing (e.g., “A Novel Framework...,” which conveys little information) and overly narrow focus (which may reduce the paper’s audience)—aim for concise but informative.
+- [ ] 1.2 Title clearly reflects both the **problem** and the **solution**, and includes at least one technical keyword (e.g., jailbreak, OOD detection, graph learning).
+- [ ] 1.3 Title avoids rare or ambiguous abbreviations. Terms like LLM, AI, and ML are acceptable in CS venues, but avoid abbreviations like AD (which could refer to advertisement or anomaly detection).
+- [ ] 1.4 Abstract includes at least four key components: (1) problem/task definition, (2) proposed method or idea, (3) main results, and (4) broader impact or significance (some may be combined).
+- [ ] 1.5 Abstract avoids undefined abbreviations and vague descriptors (e.g., “important,” “novel,” “state-of-the-art” without context).
+- [ ] 1.6 Bonus: Abstract includes at least one concrete, quantitative result or insight to make the work stand out. For instance, “our method achieves 11.2× acceleration in test-time inference for jailbreak detection.”
 
 
 ---
