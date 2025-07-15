@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=it">Itapano</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=yzhao062&project=cs-paper-checklist&lang=id">Bahasa Indonesia</a>
+      </div>
+    </div>
+  </details>
+</div>
+
 _This checklist is a practical, opinionated guide for sanity-checking the writing quality, structure, and presentation of CS papers—especially for conference (and journal) submissions. While some items are subjective, the goal is to provide concrete reminders and highlight common pitfalls. It is a living document and will continue to be updated based on feedback._
 
 ---
