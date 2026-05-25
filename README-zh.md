@@ -1,5 +1,7 @@
 _本检查表是一份主观性较强但实用的指南，用于检查计算机科学论文（特别是会议和期刊投稿）中的写作质量、结构合理性和内容呈现。尽管部分条目具有主观色彩，但其目标是提供具体提醒并指出常见问题。本项目为持续更新版，欢迎社区反馈与修订。_
 
+> 🤖 **用 AI 智能体写论文？** 下面很多条目（尤其是 §6 写作质量与风格、§10 引用真实性检查）其实可以在**起草时**就让智能体做对，而不必等到最后才检查。给你的智能体接上 [**agent-style**](https://github.com/yzhao062/agent-style)：12 条从 Strunk & White、Orwell、Pinker、Gopen & Swan 提炼的写作规则，外加 9 条基于 AI 输出观察的 LLM 反模式，在生成时即生效。安装：`pip install agent-style`，然后 `agent-style enable claude-code`（或 `cursor`、`agents-md`、`copilot`）。本检查表则作为最后的人工把关：先预防，再检查。
+
 ---
 
 ## 1. 🎯 标题与摘要

@@ -1,5 +1,7 @@
 _This checklist is a practical, opinionated guide for sanity-checking the writing quality, structure, and presentation of CS papers—especially for conference (and journal) submissions. While some items are subjective, the goal is to provide concrete reminders and highlight common pitfalls. It is a living document and will continue to be updated based on feedback._
 
+> 🤖 **Drafting with an AI agent?** Many items below (especially §6 Writing Quality and Style and §10 Citation Sanity) are things an agent can get right *while drafting*, not only things you catch at the end. Point your agent at [**agent-style**](https://github.com/yzhao062/agent-style): 12 writing rules distilled from Strunk & White, Orwell, Pinker, and Gopen & Swan, plus 9 field-observed LLM anti-patterns, that load at generation time. Install with `pip install agent-style`, then `agent-style enable claude-code` (or `cursor`, `agents-md`, `copilot`). Use this checklist as the final human gate: prevention before detection.
+
 ---
 
 ## 1. 🎯 Title and Abstract
